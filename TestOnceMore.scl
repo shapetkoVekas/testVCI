@@ -11,10 +11,8 @@ VERSION : 0.1
 
 
 BEGIN
-	<<<<<<< HEAD
-	#B := #A;
-	=======
+	
 	#B := FALSE;
-	>>>>>>> 1f3762fc893e82baaee9cac66a4c7c03f81306f6
+	
 END_FUNCTION
 
