@@ -12,7 +12,7 @@ VERSION : 0.1
 
 BEGIN
 	
-	#B := FALSE;
+	#B := #A;
 	
 END_FUNCTION
 
